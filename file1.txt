@@ -1,2 +1,3 @@
 this is my first file in Git Repository
 now I'm gone shitting some new
+the third capter that's good
